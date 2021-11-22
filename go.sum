@@ -98,6 +98,8 @@ github.com/argoproj/argo-cd/v2 v2.2.0-rc1 h1:Z/MRCgtPj25r0A70mZsd5mtzvsjsIYqSi3y
 github.com/argoproj/argo-cd/v2 v2.2.0-rc1/go.mod h1:WQqRr6PykO7CL/5mAyiVD6MgUbrFHd/fq9TKCWJ5TPE=
 github.com/argoproj/gitops-engine v0.4.1-0.20211103220110-c7bab2eeca22 h1:2i8r5XiuBDf7uYP4R5ZuSNsPebPw15g/LePNIX7YYi8=
 github.com/argoproj/gitops-engine v0.4.1-0.20211103220110-c7bab2eeca22/go.mod h1:K2RYpGXh11VdFwDksS23SyFTOJaPcsF+MVJ/FHlqEOE=
+github.com/argoproj/gitops-engine v0.5.0 h1:KpAy7ChXd4PpJqqjBDLACGl6iu1QmIECIeOzmkAfHpE=
+github.com/argoproj/gitops-engine v0.5.0/go.mod h1:K2RYpGXh11VdFwDksS23SyFTOJaPcsF+MVJ/FHlqEOE=
 github.com/argoproj/pkg v0.9.1 h1:osfOS3QkzfRf+W43lbCZb0o0bzrBweQhL+U3rgEg+5M=
 github.com/argoproj/pkg v0.9.1/go.mod h1:ra+bQPmbVAoEL+gYSKesuigt4m49i3Qa3mE/xQcjCiA=
 github.com/armon/circbuf v0.0.0-20150827004946-bbbad097214e/go.mod h1:3U/XgcO3hCbHZ8TKRvWD2dDTCfh9M9ya+I9JpbB7O8o=
